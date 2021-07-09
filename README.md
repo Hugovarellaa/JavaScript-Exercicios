@@ -14,7 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Calculadora
 - Calculadora I.M.C.
 - CountDown
-- Mini-projeto
 - Semaforo
 - Slideshow
 - Todo-list
